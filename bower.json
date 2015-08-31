@@ -1,0 +1,27 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "authors": [
+    "akhilrs <akhilrs@live.com>"
+  ],
+  "description": "github page",
+  "main": "bower.json",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "github"
+  ],
+  "license": "MIT",
+  "homepage": "akhilrs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0"
+  }
+}
