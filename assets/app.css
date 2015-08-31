@@ -1,0 +1,64 @@
+.dark-primary-color {
+    background: #00796B;
+}
+.default-primary-color {
+    background: #009688;
+}
+.light-primary-color {
+    background: #B2DFDB;
+}
+.text-primary-color {
+    color: #FFFFFF;
+}
+.accent-color {
+    background: #00BCD4;
+}
+.primary-text-color {
+    color: #212121;
+}
+.secondary-text-color {
+    color: #727272;
+}
+.divider-color {
+    border-color: #B6B6B6;
+}
+
+.top-bar{
+    height: 5px;
+}
+
+.page{
+    margin-top: 20px;
+    z-index: 1;
+}
+
+/**
+ * Left nav
+ */
+
+ul.left-nav{
+
+}
+ul.left-nav li{
+    padding: 10px;
+    width: 100%;
+}
+ul.left-nav li i{
+    font-size: 1.8rem;
+}
+
+ul.left-nav li a{
+    font-size: 1.5rem;
+}
+
+/**
+ * Custom ripple effects
+ */
+.waves-effect.waves-blue .waves-ripple{
+    background-color: rgb(3, 169, 244);
+}
+
+img.dp{
+    width:100px;
+}
+
